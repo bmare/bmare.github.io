@@ -13,6 +13,8 @@ body {
 h1 {
         margin: 0;
         padding: 20px 0;
+        font-size: 40px;
+        text-align: center;
         color: #7F59A5;
         text-shadow: 3px 3px 1px black;
 }
@@ -20,4 +22,53 @@ img {
         display: block;
         margin: 0 auto;
         width: 600px;
+}
+
+/* Blog Formatting */
+
+.header {
+        padding: 30px;
+        font-size: 40px;
+        text-align: center;
+        background-color: #7F59A5;
+}
+
+.leftcolumn {
+        float: left;
+        width: 75%;
+}
+.rightcolumn {
+        float: left;
+        width: 25%;
+        padding-left: 20px;
+}
+.fakeimg {
+        background-color: #aaa;
+        width: 100%;
+        padding: 20px;
+}
+entry {
+        background-color: #AF9B9B;
+        padding: 20px;
+        border-left: 10px solid #26621C;
+        margin-top: 20px;
+}
+.row:after {
+        content: "";
+        display:table;
+        clear:both;
+}
+.footer {
+        padding: 20px;
+        text-align: center;
+        background: #ddd;
+        margin-top: 20px;
+}
+
+@media screen and (max-width: 800px)
+{
+        .leftcolumn, .rightcolumn {
+                width: 100%;
+                padding: 0;
+        }
 }

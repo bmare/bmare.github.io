@@ -20,10 +20,10 @@ myImage.onclick = function() {
                 myImage.setAttribute('src','images/wolf-sheep.jpg');
         }
 }
+/*
 
 var myButton = document.querySelector('button');
 var myHeading = document.querySelector('h1');
-
 function setUserName() {
         var myName = prompt('Please enter your name.');
         localStorage.setItem('name', myName);
@@ -36,7 +36,6 @@ function setUserName() {
         } else {
                 localStorage.setItem('name', noName);
         }
-        */
 }
 
 if (!localStorage.getItem('name')) {
@@ -49,3 +48,4 @@ if (!localStorage.getItem('name')) {
 myButton.onclick = function() {
         setUserName();
 }
+        */
