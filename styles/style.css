@@ -23,6 +23,9 @@ img {
         margin: 0 auto;
         width: 600px;
 }
+
+/* Link Highlight */
+
 a {
         color: blue;
         font-weight: bold;
