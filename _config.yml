@@ -1,0 +1,19 @@
+name: Brandon (Shuba) Marrow
+description: >
+        Brandon (Shuba) Marrow's writing, projects, and music.
+github_username: bmare
+kramdown:
+        input: GFM
+defaults:
+        - scope:
+                path: "assets/img"
+          values:
+                image: true
+sass:
+        sass_dir: _sass
+plugins:
+        - jekyll-feed
+        - jekyll-sitemap
+        - jekyll-seo-tag
+          
+permalink: /blog/:year/:month/:day/:title

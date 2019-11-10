@@ -1,0 +1,15 @@
+<div class="wrapper" id="top-bar">
+        <div class="faces" >
+                <a href="index.html"title="Home"></a>
+                <img src="/assets/svg/ha.svg/">
+        </div>
+        <nav class="flex-nav">
+                <ul>
+                        {% for item in site.data.navigation %}
+                        <li class="nav-items"><a href="{{item.link}}" {% if page.url == item.link %}class="current"{% endif %}>
+                                {{ item.name }}
+                                </a></li>
+                        {% endfor %}
+                </ul>
+        </nav>
+</div>

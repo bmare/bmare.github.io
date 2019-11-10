@@ -1,0 +1,44 @@
+html {
+        font-family: $font-style;
+        color: $font-color;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+}
+body {
+        font-size: 1.1em;
+        line-height: 1.6;
+        color: lighten($font-color, 10%);
+}
+header {
+        font-size: .8em;
+
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+        font-family: $header-font;
+        line-height: 1.2;
+        font-weight: 600;
+        color: darken($font-color, 20%);
+}
+img + em {
+        font-size: 0.8rem;
+}
+
+
+.flex-nav li {
+        font-family: $header-font;
+        line-height: 1.2;
+        font-weight: 600;
+        color: darken($font-color, 20%);
+
+}
+
+
+
+
+
