@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/blog/2016/12/01/Digging-the-Dust-of-Shakespeare's-Bones-in-Crystal-Springs</loc>
+<loc>http://localhost:4000/bmare.github.io/blog/2016/12/01/Digging-the-Dust-of-Shakespeare's-Bones-in-Crystal-Springs</loc>
 <lastmod>2016-12-01T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/blog/2019/02/26/GAZeli-on-a-Not-So-Open_Plain</loc>
+<loc>http://localhost:4000/bmare.github.io/blog/2019/02/26/GAZeli-on-a-Not-So-Open_Plain</loc>
 <lastmod>2019-02-26T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/about</loc>
+<loc>http://localhost:4000/bmare.github.io/about</loc>
 </url>
 <url>
-<loc>http://localhost:4000/blog</loc>
+<loc>http://localhost:4000/bmare.github.io/blog</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>http://localhost:4000/bmare.github.io/</loc>
 </url>
 </urlset>
