@@ -2,6 +2,7 @@
 layout: post
 author: The Bard
 title: Digging the Dust of Shakespeare's Bones in Crystal Springs
+description: The story of Reed's lost Shakesperean landmass. Originally published in Reed magazine vol. 95, no. 4 from December 2016.
 ---
 
 ![“Reed Students Cry Out Against Shakespeare Isle ‘Desecration.’” Photo from the Oregon Journal, Sept. 28, 1950.](https://www.reed.edu/reed_magazine/december2016/articles/apocrypha/images/shakespeareIsland.jpg)
@@ -22,3 +23,5 @@ The barricades provoked outrage from students, who proceeded to stage one of the
 Writing in the _Quest,_ students argued that the Rhododendron Society would not promote the ecological health of the island or the Portland public. In a column titled _A Serpent’s Tooth_, **[Bill Dickey](https://www.reed.edu/reed-magazine/in-memoriam/obituaries/august1994/william-h-dickey-1951.html) ’51** declared the rhododendron an invasive species comparable to the Japanese beetle and accused Commissioner Bean of attempting to woo the public with azaleas. Local papers such as the _Oregonian_ responded with scathing remarks about the Reed College “cut-ups.” 
 
 In the end, however, the protests availed naught. Shakespeare Island went from on-campus, to off-campus, to off-limits for Reed students. It was thus fitting that students chanted the verses from the Bard’s own epitaph: Good frend for Jesus sake forbeare, To digg the dust encloased heare; Bleste be the man that spares thes stones, And curst be he that moves my bones.
+
+Originally published in [Reed Magazine](https://www.reed.edu/reed_magazine/december2016/articles/apocrypha/traditions_myths_and_legends.html).
