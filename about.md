@@ -12,4 +12,6 @@ I wear (a few too) many hats:
     - A phonetic description of Kannada, a language of Southern India centered in Bangalore.
 *   [Shakespeare Fan](https://www.reed.edu/reed_magazine/december2016/articles/apocrypha/traditions_myths_and_legends.html "Humor")
     - A Shakespearean story about the island once informally a part of Reed College.
+
 Right now, I'm focused on integrating computer literacy with my background in writing and research, the result of which is this site. 
+
