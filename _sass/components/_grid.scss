@@ -16,6 +16,12 @@ body {
         max-width: 1000px;
         padding: 10px;
 }
+.page-wrapper {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+}
+
 
 /* Header */
 
@@ -54,12 +60,16 @@ img + em,
 p > img {
         text-align: center;
         display: block;
+        image-orientation: from-image;
         margin: 0 auto;
         width: 75%;
         padding: 10px;
 }
 
 /* Media queries */
+
+
+
 
 @media all and (max-width:500px) {
         #top-bar {

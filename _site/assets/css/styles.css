@@ -46,6 +46,11 @@ body {
   max-width: 1000px;
   padding: 10px; }
 
+.page-wrapper {
+  display: flex;
+  justify-content: center;
+  flex-direction: column; }
+
 /* Header */
 #top-bar {
   background: #859900;
@@ -74,6 +79,7 @@ img + em,
 p > img {
   text-align: center;
   display: block;
+  image-orientation: from-image;
   margin: 0 auto;
   width: 75%;
   padding: 10px; }
@@ -93,3 +99,7 @@ p > img {
 .hungover {
   display: flex;
   flex-direction: column; }
+
+/* In Page Links */
+.wrapper#content a {
+  border-bottom: 1px solid #6c71c4; }
