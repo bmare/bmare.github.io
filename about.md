@@ -5,7 +5,7 @@ title: About
 # About Page 
 I wear (a few too) many hats:
 *   [Musician](https://soundcloud.com/b1-marrow "My Soundcloud")
-    - Electronic and instrumental music ranging from relaxed to paniced.
+    - Electronic and instrumental music ranging from relaxed to panicked.
 *   [Teacher](https://nspu.ru/content/news/index.php?ELEMENT_ID=241278)
     - A Russian article written about my time teaching at Novosibirsk State Pedagogical University.
 *   [Amateur Linguist - Southern Kannada](pdf/kannada.pdf)
