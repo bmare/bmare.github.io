@@ -102,4 +102,14 @@ p > img {
 
 /* In Page Links */
 .wrapper#content a {
-  border-bottom: 1px solid #6c71c4; }
+  border-bottom: 1px solid #6c71c4;
+  font-weight: bold; }
+
+a:visited {
+  color: blue;
+  font-weight: bold; }
+
+a:hover,
+a:active,
+a:focus {
+  color: darkened; }

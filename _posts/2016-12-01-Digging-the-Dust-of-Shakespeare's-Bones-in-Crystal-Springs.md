@@ -3,6 +3,7 @@ layout: post
 author: The Bard
 title: Digging the Dust of Shakespeare's Bones in Crystal Springs
 description: The story of Reed's lost Shakesperean landmass. Originally published in Reed magazine vol. 95, no. 4 from December 2016.
+excerpt: The story of Reed's lost Shakesperean landmass. Originally published in Reed magazine vol. 95, no. 4 from December 2016.
 ---
 
 ![“Reed Students Cry Out Against Shakespeare Isle ‘Desecration.’” Photo from the Oregon Journal, Sept. 28, 1950.](https://www.reed.edu/reed_magazine/december2016/articles/apocrypha/images/shakespeareIsland.jpg)

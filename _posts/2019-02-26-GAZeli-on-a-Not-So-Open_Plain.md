@@ -2,6 +2,7 @@
 layout: post
 author: Shuba
 title: "GAZeli on a Not So Open Plain"
+excerpt: This is a story about what my daily commute has taught me about Novosibirsk and how the life of the city is reflected in a certain mode of transport - the so called marshrutnoye taksi ('fixed-route taxi'), marshrutka for short.
 ---
 ## The Marshrutka Stampede in Novosibirsk
 

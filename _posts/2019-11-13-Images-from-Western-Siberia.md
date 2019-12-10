@@ -2,6 +2,7 @@
 author: Brandon Marrow
 title: "Images from Western Siberia"
 layout: post
+excerpt: The tale of an ocean in a river--Novosibirk's Ob' Sea.
 ---
 ## 1. The Ob' Sea
 This post marks the beginning of what I hope to be a series of posts about my experiences in Siberia. Inspired by the photos I took there, this blog will include my reflections and, in some cases, the first-hand observations I recorded while living in Novosibirsk.

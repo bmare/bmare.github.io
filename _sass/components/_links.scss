@@ -1,5 +1,18 @@
 /* In Page Links */
 .wrapper#content a {
         border-bottom: 1px solid $bulb;
+        font-weight: bold;
+
+}
+
+a:visited{
+        color: blue;
+        font-weight:bold;
+}
+
+a:hover,
+a:active,
+a:focus {
+        color: darkened;
 }
 
